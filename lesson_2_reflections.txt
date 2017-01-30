@@ -1,0 +1,7 @@
+*What happens when you initialize a repository? Why do you need to do it?
+	-it creat a new hidden folder names it ".git" that will have metadata about the repository.
+	I need to do it to start tracking my files in the repository
+
+*How is the staging area different from the working directory and the repository? What value do you think it offers?
+	-it is a middle stage between both
+	it offers a waiting area let you decide if you transfer its contents to repository or cancel the operation and return contents to working directory
